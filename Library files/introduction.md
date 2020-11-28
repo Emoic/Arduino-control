@@ -1,1 +1,1 @@
-Here is the library of my running files, among which the DHT library of temperature and humidity sensor please refer to the Internet
+This is the library of the files I am running. For the DHT temperature and humidity sensor library, please refer to the Internet
