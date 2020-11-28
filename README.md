@@ -1,2 +1,2 @@
 # Arduino-control
-To control the car
+Use arduino mega2560 to control the car
